@@ -18,7 +18,7 @@ The initial lower bidder could win the auction with an exceptionally lower bid, 
 
 https://github.com/code-423n4/2023-10-nextgen/blob/8b518196629faa37eae39736837b24926fd3c07c/smart-contracts/AuctionDemo.sol#L124-L143
 
-Here is the vulnerable code segment in the `AuctionDemo` contract:
+Here is the vulnerable code segment in the `AuctionDemo.sol` contract:
 
 ```solidity
     function cancelBid(uint256 _tokenid, uint256 index) public {
