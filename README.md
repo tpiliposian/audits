@@ -12,8 +12,6 @@ For inquiries about private audits, audits conducted through [Hexens](https://he
 - X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [@tpiliposian](https://t.me/tpiliposian)
 
-You can also request a quote on [Code4rena](https://code4rena.com/@tpiliposian).
-
 ### X security tips (blog posts)
 
 - [ERC20Permit](https://twitter.com/tpiliposian/status/1730247297416540458)
