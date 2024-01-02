@@ -21,7 +21,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@tpiliposian).
 
 ## Audits
 
-Reports for all security reviews/audits can be found [here](/findings/).
+My findings from all security reviews/audits (excluding confidential ones) can be found [here](/findings/).
 
 ## Audit Contests
 
