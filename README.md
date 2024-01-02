@@ -18,3 +18,6 @@ You can also request a quote on [Code4rena](https://code4rena.com/@tpiliposian).
 
 - [ERC20Permit](https://twitter.com/tpiliposian/status/1730247297416540458)
 - [Chainlink oracles](https://twitter.com/tpiliposian/status/1732706349492936997)
+
+
+> **Note:** This portfolio is a work in progress, continually updated to reflect ongoing contributions and experiences. Please note that this is not the final version and will be updated regularly to include new achievements and projects.
