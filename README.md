@@ -6,7 +6,7 @@ I'm a security researcher specializing in smart contract audits and security con
 
 Currently, I hold the role of Security Researcher at [Hexens](https://hexens.io/) and a Core Contributor at [Security Wiki](https://wiki.r.security/). 
 
-Previously, I held roles in the financial sphere for over a decade, including a tenure at the Central Bank of Armenia, where I led the Risk Management Division.
+Previously, I held roles in the financial sphere for over a decade, including a tenure at the Central Bank of Armenia, where I led the Risk Management Division: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
 For inquiries about private audits, audits conducted through [Hexens](https://hexens.io/audits), security consulting, R&D collaborations, or financial risk management, feel free to connect with me at:
 - X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
