@@ -8,7 +8,7 @@ Currently, I hold the role of Security Researcher at [Hexens](https://hexens.io/
 
 Previously, I held roles in the financial sphere for over a decade, including a tenure at the Central Bank, where I led the Risk Management Division.
 
-For inquiries about private audits, audits conducted through Hexens, security consulting, R&D collaborations, or financial risk management, feel free to connect with me at:
+For inquiries about private audits, audits conducted through [Hexens](https://hexens.io/audits), security consulting, R&D collaborations, or financial risk management, feel free to connect with me at:
 - X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [@tpiliposian](https://t.me/tpiliposian)
 
