@@ -19,11 +19,11 @@ For inquiries about private audits, audits conducted through [Hexens](https://he
 
 ## Audits
 
-My findings from security reviews/audits (excluding confidential and older ones that I couldn't locate) can be found [here](/findings/).
+A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
 
 ## Audit Contests
 
-Reports for audit contests I could participate in can be found [here](/contests/).
+Reports for audit contests I participated in can be found [here](/contests/).
 
 ## Bug Bounty
 
