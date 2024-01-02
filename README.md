@@ -25,7 +25,7 @@ My findings from all security reviews/audits (excluding confidential ones) can b
 
 ## Audit Contests
 
-Reports for all audit contests can be found [here](/contests/).
+Reports for all audit contests I could participate in can be found [here](/contests/).
 
 ## Bug Bounty
 
