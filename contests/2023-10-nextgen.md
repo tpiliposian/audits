@@ -45,6 +45,6 @@ Manual review.
 
 Consider implementing one or more of the following mitigation steps:
 
-Implement a bid lock-in period during which bidders cannot cancel their bids. This will prevent last-minute bid cancellations and potential manipulation.
-Enforce a minimum bid increment, which requires each new bid to be a certain percentage higher than the previous one. This discourages artificially low initial bids.
-Introduce a fee for canceling bids, especially if the cancellation occurs after a certain point in the auction. This discourages malicious behavior and ensures commitment from bidders.
+- Implement a bid lock-in period during which bidders cannot cancel their bids. This will prevent last-minute bid cancellations and potential manipulation.
+- Enforce a minimum bid increment, which requires each new bid to be a certain percentage higher than the previous one. This discourages artificially low initial bids.
+- Introduce a fee for canceling bids, especially if the cancellation occurs after a certain point in the auction. This discourages malicious behavior and ensures commitment from bidders.
