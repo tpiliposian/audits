@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a security researcher specializing in smart contract audits and security consulting.
+I'm Tigran Piliposyan (tpiliposian) a security researcher specializing in smart contract audits and security consulting.
 
 Currently, I hold the role of Security Researcher at [Hexens](https://hexens.io/) and a Core Contributor at [Security Wiki](https://wiki.r.security/). 
 
