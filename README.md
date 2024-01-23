@@ -1,4 +1,6 @@
-# My Portfolio
+# Tigran's Portfolio
+
+> **Note:** This portfolio is a work in progress, continually updated to reflect ongoing contributions and experiences. Please note that this is not the final version and will be updated regularly to include new achievements and projects.
 
 ## About me
 
@@ -28,5 +30,3 @@ Reports for audit contests I participated in can be found [here](/contests/).
 ## Bug Bounty
 
 TBD
-
-> **Note:** This portfolio is a work in progress, continually updated to reflect ongoing contributions and experiences. Please note that this is not the final version and will be updated regularly to include new achievements and projects.
