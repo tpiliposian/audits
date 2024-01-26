@@ -21,6 +21,11 @@ For inquiries about private audits, audits conducted through [Hexens](https://he
 
 A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
 
+| Protocol | Date | Report |
+| - | - | :-: |
+| [MANTLE](https://www.mantle.xyz/) | August 2023 | [📄](/findings/2023-08-mantle.md) | 
+| [FUNGIFY](https://fungify.it/) | November 2023 | [📄](/findings/2023-11-fungify.md) |
+
 ## Audit Contests
 
 Reports for audit contests I participated in can be found [here](/contests/).
