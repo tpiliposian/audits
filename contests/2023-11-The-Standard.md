@@ -169,4 +169,6 @@ Manual review.
 
 Add reasonable upper limits for fee parameters to prevent the imposition of excessively high fees.
 
+> **Note:** This one: [L-01] was invalidated as a known issue.
+
 
