@@ -48,7 +48,7 @@ The Goat Protocol is a decentralized yield optimizer. It allows users, DAOs and 
 The [Goat.fi](https://www.goat.fi/#/) repository was audited at commit [724d610f4f5d7bb9abf0b965a66cbf0ec809953b](https://github.com/goatfi/contracts/commit/724d610f4f5d7bb9abf0b965a66cbf0ec809953b#diff-2e49d11dda360152884d6f7a372562327ce7f06c8ec2ef52cf6b9f8dc9794400).
 
 The following contracts were in scope:
-1. `src/infra/GoatRewardPool.sol`
+1. `src/infra/GoatRewardPool.sol` (~200 nSLOC)
 
 After the completion of the fixes, the [Y](Y.com) commit was reviewed.
 
