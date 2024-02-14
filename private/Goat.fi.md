@@ -1,4 +1,4 @@
-# Security Review Report
+# Preliminary Security Review Report
 
 ### **[Goat.fi](https://www.goat.fi/#/)** (DeFi Yield Optimizer)
 Led by [Tigran Piliposyan](https://twitter.com/tpiliposian) at 14.02.2024
