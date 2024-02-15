@@ -21,11 +21,11 @@ A smart contract security review is a comprehensive attempt to uncover vulnerabi
 
 # Severity classification
 
-| Severity Level | Impact High | Impact Medium | Impact Low |
+| Severity Level | Impact: High | Impact: Medium | Impact: Low |
 | - | - | - | - |
-| Likelihood High| High | High |  Medium |
-| Likelihood Medium | High | Medium |  Low |
-| Likelihood Low | Medium | Low |  Low |
+| Likelihood: High| High | High |  Medium |
+| Likelihood: Medium | High | Medium |  Low |
+| Likelihood: Low | Medium | Low |  Low |
 
 ## Impact
 
@@ -57,7 +57,7 @@ After the completion of the fixes, the [Y](Y.com) commit was reviewed.
 | Severity | Issues Found |
 | - | - |
 | High | 1 |
-| Medium | 1 |
+| Medium | 2 |
 | Low | 0 |
 | Informational | 2 |
 
@@ -67,8 +67,9 @@ After the completion of the fixes, the [Y](Y.com) commit was reviewed.
 | - | - | - | - |
 | [H-01] | Unfair reward distribution due to wrong calculations | High |  Fixed/Acknowledged |
 | [M-01] | Stake with permit can be blocked | Medium |  Fixed/Acknowledged |
+| [M-02] | Inconsistent decimal place handling in reward calculations | Medium |  Fixed/Acknowledged |
 | [I-01] | Use Ownable2Step instead of Ownable | Informational |  Fixed/Acknowledged |
-| [I-02] | Unnecessary Initialization of Constant in Constructor | Informational |  Fixed/Acknowledged |
+| [I-02] | Unnecessary initialization of constant in constructor | Informational |  Fixed/Acknowledged |
 
 # Findings
 
@@ -199,6 +200,53 @@ An example from `The Grapgh`:
         }
 ```
 
+## [M-02] Inconsistent decimal place handling in reward calculations
+
+### Description
+
+https://github.com/goatfi/contracts/blob/724d610f4f5d7bb9abf0b965a66cbf0ec809953b/src/infra/GoatRewardPool.sol#L396-L403
+
+The comment and calculations in the `_earned` function of the `GoatRewardPool.sol` contract appear to be inconsistent with each other regarding the decimal precision of the reward tokens. While the comment states that `rewardPerTokenStored` is in 18 decimals, the calculations use a fixed divisor of `1e30`, which suggests a different decimal precision. This inconsistency may lead to incorrect reward calculations.
+
+```solidity
+    /// @param rewardPerTokenStored Stored reward value per staked token in 18 decimals
+    /// @param userRewardPerTokenPaid Stored reward value per staked token in 18 decimals at the
+    /// last time a user was paid the reward
+```
+
+```solidity
+    function _rewardPerToken(address _reward) private view returns (uint256 rewardPerToken) {
+        RewardInfo storage rewardData = _getRewardInfo(_reward);
+        if (totalSupply() == 0) {
+            rewardPerToken = rewardData.rewardPerTokenStored;
+        } else {
+            rewardPerToken = rewardData.rewardPerTokenStored + Math.mulDiv(
+                (_lastTimeRewardApplicable(rewardData.periodFinish) - rewardData.lastUpdateTime),
+                rewardData.rate * 1e30,
+                totalSupply()
+            );
+        }
+    }
+
+    /// @dev Calculate the reward amount earned by the user
+    /// @param _user Address of the user
+    /// @param _reward Address of the reward
+    /// @return earnedAmount Amount of reward earned by the user
+    function _earned(address _user, address _reward) private view returns (uint256 earnedAmount) {
+        RewardInfo storage rewardData = _getRewardInfo(_reward);
+        earnedAmount = rewardData.earned[_user] + Math.mulDiv(
+            balanceOf(_user), 
+            (_rewardPerToken(_reward) - rewardData.userRewardPerTokenPaid[_user]),
+            1e30
+        );
+    }
+```
+
+### Recommendation
+
+Ensure that comments accurately reflect the decimal precision of the reward tokens.
+
+
 ## [I-01] Use Ownable2Step instead of Ownable
 
 ### Description
@@ -211,7 +259,7 @@ The `GoatRewardPool.sol` contract inherits from OpenZeppelin's `Ownable.sol` con
 
 Use OpenZeppelin's `Ownable2Step.sol` instead of `Ownable.sol`.
 
-## [I-02] Unnecessary Initialization of Constant in Constructor
+## [I-02] Unnecessary initialization of constant in constructor
 
 ### Description
 
