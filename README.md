@@ -17,16 +17,16 @@ If you are looking to get your protocol audited by me (private) or through [Hexe
 - [ERC20Permit](https://twitter.com/tpiliposian/status/1730247297416540458)
 - [Chainlink oracles](https://twitter.com/tpiliposian/status/1732706349492936997)
 
-## Audits
-
-### Hexens
+## Audits with Hexens
 
 A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
+| [Polygon](https://polygon.technology/) | Bridge | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Polygon_Technology__Aug23Public.pdf) |
 | [MANTLE](https://www.mantle.xyz/) | Liquid staking | August 2023 | [📄](/findings/2023-08-mantle.md) | 
-| [FUNGIFY](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
+| [cLabs](https://clabs.co/) | Governance | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
+| [Fungify](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
 
 ## Private Audits
 
