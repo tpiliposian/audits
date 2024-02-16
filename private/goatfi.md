@@ -9,7 +9,7 @@ Tigran Piliposyan ([tpiliposian](https://twitter.com/tpiliposian)) is a security
 
 Currently, he holds the role of Security Researcher at [Hexens](https://hexens.io/) and a Core Contributor at [Security Wiki](https://wiki.r.security/). 
 
-Previously, he held roles in the financial sphere for over a decade, including a tenure at the Central Bank of Armenia, where he led the Risk Management Division: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
+Previously, he held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
 Feel free to connect with him at:
 - X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
@@ -41,7 +41,7 @@ A smart contract security review is a comprehensive attempt to uncover vulnerabi
 
 # About Goat Protocol
 
-The Goat Protocol is a decentralized yield optimizer. It allows users, DAOs and other protocols earn the yield on their digital assets by auto compounding the rewards into more of what they've deposited.
+The Goat Protocol is a decentralized yield optimizer. It allows users, DAOs, and other protocols to earn the yield on their digital assets by auto-compounding the rewards into more of what they've deposited.
 
 # Summary & Scope
 
@@ -67,7 +67,7 @@ After the completion of the fixes, the [Y](Y.com) commit was reviewed.
 | - | - | - | - |
 | [M-01] | Stake with permit can be blocked | Medium |  Fixed/Acknowledged |
 | [M-02] | Inconsistent decimal place handling in reward calculations | Medium |  Fixed |
-| [I-01] | Unnecessary initialization of constant in constructor | Informational |  Fixed |
+| [I-01] | Unnecessary initialization of constant in the constructor | Informational |  Fixed |
 
 # Findings
 
@@ -166,7 +166,7 @@ The comment and calculations in the `_earned` function of the `GoatRewardPool.so
 
 Ensure that comments accurately reflect the decimal precision of the reward tokens.
 
-## [I-01] Unnecessary initialization of constant in constructor
+## [I-01] Unnecessary initialization of constant in the constructor
 
 ### Description
 
