@@ -28,6 +28,12 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 | [MANTLE](https://www.mantle.xyz/) | Liquid staking | August 2023 | [📄](/findings/2023-08-mantle.md) | 
 | [FUNGIFY](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
 
+## Private Audits
+
+| Protocol | Scope | Category | Report |
+| - | - | - | :-: |
+| [Goat.fi](https://www.goat.fi/#/) | GoatRewardPool | DeFi Yield Optimizer | [📄](private/goatfi.md) | 
+
 ## Audit Contests
 
 Reports for audit contests I participated in can be found [here](/contests/).
