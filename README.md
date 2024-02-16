@@ -9,8 +9,8 @@ Currently, I hold the role of Security Researcher at [Hexens](https://hexens.io/
 Previously, I held roles in the financial sphere for over a decade, including a tenure at the Central Bank of Armenia, where I led the Risk Management Division: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
 If you are looking to get your protocol audited by me (private) or through [Hexens](https://hexens.io/audits), security consulting or R&D collaborations feel free to contact me to discuss your needs and help you secure your project at:
-- X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
-- Telegram - [@tpiliposian](https://t.me/tpiliposian)
+- X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
+- Telegram - [tpiliposian](https://t.me/tpiliposian)
 
 ### X security tips (blog posts)
 
