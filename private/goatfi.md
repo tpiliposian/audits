@@ -50,7 +50,10 @@ The [Goat.fi](https://www.goat.fi/#/) repository was audited at commit [724d610f
 The following contracts were in scope:
 1. `src/infra/GoatRewardPool.sol` (~200 nSLOC)
 
-After the completion of the fixes, the [Y](Y.com) commit was reviewed.
+After the completion of the fixes, the following commits were reviewed:
+- https://github.com/goatfi/contracts/pull/3/commits/c37679b28b7fe4f998db4b7b431c71f63e18ee58
+- https://github.com/goatfi/contracts/pull/3/commits/601ae2d9d1eff034da3806f1faf5a841c5c94cfc
+- https://github.com/goatfi/contracts/pull/3/commits/4ea4bb31dd6c7a09455a72fae7b0222af6dc957f
 
 # Summary of Findings
 
@@ -65,7 +68,7 @@ After the completion of the fixes, the [Y](Y.com) commit was reviewed.
 
 | Identifier | Title | Severity | Status |
 | - | - | - | - |
-| [M-01] | Stake with permit can be blocked | Medium |  Fixed/Acknowledged |
+| [M-01] | Stake with permit can be blocked | Medium |  Fixed |
 | [M-02] | Inconsistent decimal place handling in reward calculations | Medium |  Fixed |
 | [I-01] | Unnecessary initialization of constant in the constructor | Informational |  Fixed |
 
