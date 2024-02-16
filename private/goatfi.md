@@ -12,8 +12,8 @@ Currently, he holds the role of Security Researcher at [Hexens](https://hexens.i
 Previously, he held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
 Feel free to connect with him at:
-- X/Twitter - [@tpiliposian](https://twitter.com/tpiliposian) 
-- Telegram - [@tpiliposian](https://t.me/tpiliposian)
+- X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
+- Telegram - [tpiliposian](https://t.me/tpiliposian)
 
 # Disclaimer
 
