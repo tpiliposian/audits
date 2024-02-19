@@ -40,8 +40,8 @@ Reports for audit contests I participated in can be found [here](/contests/).
 
 | Protocol | Platform | Date | Report |
 | - | - | - | :-: |
+| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | CodeHawks | January 2024 | [📄](/contests/2023-12-The-Standard.md) |
 | [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
-| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | CodeHawks | January 2023 | [📄](/contests/2023-12-The-Standard.md) |
 | [Panoptic](https://twitter.com/Panoptic_xyz) | Code4rena | November 2023 | [📄](/contests/2023-11-panoptic.md) |
 | [CANTO](https://twitter.com/CantoPublic) | Code4rena | October 2023 | [📄](/contests/2023-10-canto.md) |
 
