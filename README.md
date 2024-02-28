@@ -40,6 +40,7 @@ Reports for audit contests I participated in can be found [here](/contests/).
 
 | Protocol | Platform | Date | Report |
 | - | - | - | :-: |
+| [AI Arena](https://twitter.com/aiarena) | Code4rena | February 2024 | TBA |
 | [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
 | [Panoptic](https://twitter.com/Panoptic_xyz) | Code4rena | November 2023 | [📄](/contests/2023-11-panoptic.md) |
 | [CANTO](https://twitter.com/CantoPublic) | Code4rena | October 2023 | [📄](/contests/2023-10-canto.md) |
