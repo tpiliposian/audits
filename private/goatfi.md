@@ -178,7 +178,7 @@ https://github.com/goatfi/contracts/blob/724d610f4f5d7bb9abf0b965a66cbf0ec809953
 In the constructor of the `GoatRewardPool.sol` contract, the variable `rewardMax` is set to a value of 10. However, this value is not changed anywhere else in the contract. Initializing a constant value in the constructor is unnecessary and can be optimized.
 
 ```solidity
-    constructor(address _stakedToken) ERC20("Staked GOA", "stGOA") Ownable(msg.sender) { // @audit-info 2 step
+    constructor(address _stakedToken) ERC20("Staked GOA", "stGOA") Ownable(msg.sender) {
         stakedToken = IERC20(_stakedToken);
         rewardMax = 10;
     }
