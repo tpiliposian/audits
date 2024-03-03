@@ -23,16 +23,18 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
+| [EigenLayer](https://www.eigenlayer.xyz/) | Restaking, Liquid staking | October 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/EigenLayer_Oct23_(Public)(Restaking_Liquid%20staking).pdf) |
 | [Polygon](https://polygon.technology/) | Bridge | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Polygon_Technology__Aug23Public.pdf) |
-| [MANTLE](https://www.mantle.xyz/) | Liquid staking | August 2023 | [📄](/findings/2023-08-mantle.md) | 
+| [MANTLE](https://www.mantle.xyz/) | Liquid staking | August 2023 | [📄](/findings/2023-08-mantle.md) |
+| [Slash Payments](https://twitter.com/SlashWeb3) | Payment Platform | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Slash_Payment_Aug23(Web3%20Payment%20Platform)(Public)_upd.pdf) |
 | [cLabs](https://clabs.co/) | Governance | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
 | [Fungify](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
 
 ## Private Audits
 
-| Protocol | Scope | Category | Report |
+| Protocol | Category | Date | Report |
 | - | - | - | :-: |
-| [Goat.fi](https://www.goat.fi/#/) | GoatRewardPool | DeFi Yield Optimizer | [📄](private/goatfi.md) | 
+| [Goat.fi](https://www.goat.fi/#/) | DeFi Yield Optimizer | February 2024 | [📄](private/goatfi.md) | 
 
 ## Audit Contests
 
