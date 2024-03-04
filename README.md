@@ -29,6 +29,7 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 | [Slash Payments](https://twitter.com/SlashWeb3) | Payment Platform | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Slash_Payment_Aug23(Web3%20Payment%20Platform)(Public)_upd.pdf) |
 | [cLabs](https://clabs.co/) | Governance | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
 | [Fungify](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
+| [...] | | | |
 
 ## Private Audits
 
