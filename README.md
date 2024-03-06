@@ -29,6 +29,7 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 | [Slash Payments](https://twitter.com/SlashWeb3) | Payment Platform | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Slash_Payment_Aug23(Web3%20Payment%20Platform)(Public)_upd.pdf) |
 | [cLabs](https://clabs.co/) | Governance | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
 | [Fungify](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
+| [Astrolab](https://astrolab.fi/) | Yield meta-aggregator | April 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Astrolab_%20April23_Audit(Public)_upd.pdf) |
 | [...] | | | |
 
 ## Private Audits
@@ -46,7 +47,6 @@ Reports for audit contests I participated in can be found [here](/contests/).
 | [AI Arena](https://twitter.com/aiarena) | Code4rena | February 2024 | TBA |
 | [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
 | [Panoptic](https://twitter.com/Panoptic_xyz) | Code4rena | November 2023 | [📄](/contests/2023-11-panoptic.md) |
-| [CANTO](https://twitter.com/CantoPublic) | Code4rena | October 2023 | [📄](/contests/2023-10-canto.md) |
 
 
 ## Bug Bounty
