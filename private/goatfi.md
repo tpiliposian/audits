@@ -3,7 +3,7 @@
 ### **[Goat.fi](https://www.goat.fi/#/)** (DeFi Yield Optimizer)
 Led by [Tigran Piliposyan](https://twitter.com/tpiliposian) at 14.02.2024
 
-# About **Tigran Piliposyan**
+# About Tigran Piliposyan
 
 Tigran Piliposyan ([tpiliposian](https://twitter.com/tpiliposian)) is a security researcher specializing in smart contract audits and security consulting.
 
