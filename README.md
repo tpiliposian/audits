@@ -36,7 +36,7 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
-| [Goat.fi](https://www.goat.fi/#/) | DeFi Yield Optimizer | February 2024 | [📄](private/goatfi.md) | 
+| [Goat Finance](https://www.goat.fi/#/) | DeFi Yield Optimizer | February 2024 | [📄](private/goatfi.md) | 
 
 ## Audit Contests
 
