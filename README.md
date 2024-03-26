@@ -12,11 +12,6 @@ If you are looking to get your protocol audited by me (private) or through [Hexe
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
-### X security tips (blog posts)
-
-- [ERC20Permit](https://twitter.com/tpiliposian/status/1730247297416540458)
-- [Chainlink oracles](https://twitter.com/tpiliposian/status/1732706349492936997)
-
 ## Audits with Hexens
 
 A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
