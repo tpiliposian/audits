@@ -14,6 +14,9 @@ If you are looking for a comprehensive security audit to safeguard your project 
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
+<a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
+
 ## Audits with Hexens
 
 A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
