@@ -49,7 +49,7 @@ Reports for audit contests I participated in can be found [here](/contests/).
 
 <h2 align="left">Contacts</h2>
 <p align="left">
-  <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="25" width="25" /></a>
-  <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="25" width="25" /></a>
-  <a href="https://www.linkedin.com/in/tpiliposyan/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="25" width="25" /></a>
+  <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tpiliposyan/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
