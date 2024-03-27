@@ -14,8 +14,6 @@ If you are looking for a comprehensive security audit to safeguard your project 
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
-<a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
 
 ## Audits with Hexens
 
@@ -49,8 +47,9 @@ Reports for audit contests I participated in can be found [here](/contests/).
 | [Panoptic](https://twitter.com/Panoptic_xyz) | Code4rena | November 2023 | [📄](/contests/2023-11-panoptic.md) |
 
 
-## Bug Bounty
-
-TBA
-
-> **Note:** This portfolio is a work in progress, continually updated to reflect ongoing contributions and experiences.
+<h2 align="left">Contacts</h2>
+<p align="left">
+  <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tpiliposyan/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
