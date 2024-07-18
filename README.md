@@ -21,7 +21,9 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
+| [Fuel](https://fuel.network/) | Pre Deposit | June 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/fuel-audit-pre-deposit-contract-june-24(Public).pdf) |
 | [Fungify](https://fungify.it/) | NFT Minter | March 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/fungify-nft-audit-feb24(Public).pdf) |
+| [Spool](https://spool.fi/) | Investment Strategies | February 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/spool-audit-feb-2024(Public).pdf) |
 | [Fungify](https://fungify.it/) | Compound Integration | November 2023 | [📄](/findings/2023-11-fungify.md) |
 | [EigenLayer](https://www.eigenlayer.xyz/) | Restaking, Liquid staking | October 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/EigenLayer_Oct23_(Public)(Restaking_Liquid%20staking).pdf) |
 | [Polygon](https://polygon.technology/) | Bridge | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Polygon_Technology__Aug23Public.pdf) |
