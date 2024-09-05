@@ -49,7 +49,6 @@ Reports for audit contests I participated in can be found [here](/contests/).
 | [Midas](https://x.com/MidasRWA) | Sherlock | May 2024 | [📄](/contests/2024-05-midas.md) |
 | [AI Arena](https://twitter.com/aiarena) | Code4rena | February 2024 | [📄](/contests/2024-02-aiarena.md) |
 | [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
-| [Panoptic](https://twitter.com/Panoptic_xyz) | Code4rena | November 2023 | [📄](/contests/2023-11-panoptic.md) |
 
 
 <h2 align="left">Contacts</h2>
