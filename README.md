@@ -52,10 +52,9 @@ Reports for audit contests I participated in can be found [here](/contests/).
 
 ## Feedback
 
-What people say about my work:
-
-
-
+<p align="left">
+  <img src="./feedback/Screenshot 2024-02-17 at 13.25.55.png" width="250"/>
+</p>
 
 <h2 align="left">Contacts</h2>
 <p align="left">
