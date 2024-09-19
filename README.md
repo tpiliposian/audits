@@ -50,6 +50,12 @@ Reports for audit contests I participated in can be found [here](/contests/).
 | [AI Arena](https://twitter.com/aiarena) | Code4rena | February 2024 | [📄](/contests/2024-02-aiarena.md) |
 | [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
 
+## Feedback
+
+What people say about my work:
+
+
+
 
 <h2 align="left">Contacts</h2>
 <p align="left">
