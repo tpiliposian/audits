@@ -10,7 +10,7 @@ My journey also includes significant roles as a Core Contributor at [Security Wi
 
 Previously, I held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-If you are looking for a comprehensive security audit to safeguard your project by me (private) or through [Hexens](https://hexens.io/audits) or security consulting feel free to reach out to discuss your needs and help you secure your project:
+If you are looking for a comprehensive security audit by me (private) or through [Hexens](https://hexens.io/audits) or security consulting feel free to reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
