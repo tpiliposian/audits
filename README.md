@@ -17,7 +17,7 @@ If you are looking for a comprehensive security audit by me (private) or through
 
 ## Audits with Hexens
 
-A sample of my non-confidential findings from security reviews/audits can be found [here](/findings/).
+A sample of my non-confidential reports from security reviews/audits can be found [here](/findings/).
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
@@ -41,15 +41,12 @@ A sample of my non-confidential findings from security reviews/audits can be fou
 
 ## Audit Contests
 
-Reports for audit contests I participated in can be found [here](/contests/).
+Audit contests I participated in with my friends: **20centclub** can be found [here](/contests/).
 
 | Protocol | Platform | Date | Report |
 | - | - | - | :-: |
 | [PHI](https://phiprotocol.xyz/) | Code4rena | September 2024 | [📄](https://code4rena.com/@20centclub) |
 | [Karak](https://karak.network/) | Code4rena 🥉 | August 2024 | [📄](https://code4rena.com/@20centclub) |
-| [Midas](https://x.com/MidasRWA) | Sherlock | May 2024 | [📄](/contests/2024-05-midas.md) |
-| [AI Arena](https://twitter.com/aiarena) | Code4rena | February 2024 | [📄](/contests/2024-02-aiarena.md) |
-| [NextGen](https://twitter.com/6529Collections) | Code4rena | October 2023 | [📄](/contests/2023-10-nextgen.md) |
 
 ## Feedback
 
