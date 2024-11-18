@@ -41,10 +41,11 @@ A sample of my non-confidential reports from security reviews/audits can be foun
 
 ## Audit Contests
 
-Audit contests I participated in with my friends: **20centclub** can be found [here](/contests/).
+Audit contests I participated in can be found [here](/contests/).
 
 | Protocol | Platform | Date | Report |
 | - | - | - | :-: |
+| [Gamma Brevis Rewarder](https://www.gamma.xyz/) | Sherlock | November 2024 | [📄](https://audits.sherlock.xyz/contests/496?filter=results) |
 | [PHI](https://phiprotocol.xyz/) | Code4rena | September 2024 | [📄](https://code4rena.com/@20centclub) |
 | [Karak](https://karak.network/) | Code4rena 🥉 | August 2024 | [📄](https://code4rena.com/@20centclub) |
 
