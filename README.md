@@ -6,7 +6,7 @@ I'm a security researcher specializing in smart contract audits and security con
 
 Currently, I have been working as a Security Researcher at [Hexens](https://hexens.io/) for over a year, I’ve contributed to 60+ audit reports, collaborating closely with industry giants to enhance their security infrastructure.
 
-My journey also includes significant roles as a Core Contributor at [Security Wiki](https://wiki.r.security/), and a triager at [Remedy](https://r.xyz/), where my efforts have directly impacted the safety and reliability of numerous protocols.
+My journey also includes significant roles as the Head of Triage at [Remedy](https://r.xyz/) and a Core Contributor at [Security Wiki](https://wiki.r.security/), where my efforts have directly impacted the safety and reliability of numerous protocols.
 
 Previously, I held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
