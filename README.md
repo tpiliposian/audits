@@ -43,7 +43,7 @@ A sample of my non-confidential reports from security reviews/audits can be foun
 
 Audit contests I participated in can be found [here](/contests/).
 
-| Protocol | Platform | Date | Report/Leaderboard |
+| Protocol | Platform | Date | Leaderboard |
 | - | - | - | :-: |
 | [0xhoneyjar/InterPol](https://www.0xhoneyjar.xyz/) | Cantina | December 2024 | [📄](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
 | [Kakarot ZK-EVM](https://www.kakarot.org/) | Code4rena | November 2024 | [📄](https://code4rena.com/@20centclub) |
