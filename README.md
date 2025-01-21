@@ -49,7 +49,6 @@ Audit contests I participated in can be found [here](/contests/).
 | [Kakarot ZK-EVM](https://www.kakarot.org/) | Code4rena | November 2024 | [📄](https://code4rena.com/@20centclub) |
 | [Gamma Brevis Rewarder](https://www.gamma.xyz/) | Sherlock 🥈 | November 2024 | [📄](https://audits.sherlock.xyz/contests/496?filter=results) |
 | [Royco Protocol](https://www.royco.org/) | Cantina | September 2024 | [📄](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/leaderboard) |
-| [PHI](https://phiprotocol.xyz/) | Code4rena | September 2024 | [📄](https://code4rena.com/@20centclub) |
 | [Karak](https://karak.network/) | Code4rena 🥉 | August 2024 | [📄](https://code4rena.com/@20centclub) |
 
 ## Feedback
