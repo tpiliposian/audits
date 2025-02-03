@@ -1,23 +1,19 @@
-# Tigran's Portfolio
+# Tpiliposian's Portfolio
 
 ## About me
 
-I'm a security researcher specializing in smart contract audits and security consulting.
-
-Currently, I have been working as a Security Researcher at [Hexens](https://hexens.io/) for over a year, I’ve contributed to 60+ audit reports, collaborating closely with industry giants to enhance their security infrastructure.
-
-My journey also includes significant roles as a Triage Lead at [Remedy](https://r.xyz/) and a Core Contributor at [Security Wiki](https://wiki.r.security/), where my efforts have directly impacted the safety and reliability of numerous protocols.
+Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/).
 
 Previously, I held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-If you are looking for a comprehensive security audit by me (private) or through [Hexens](https://hexens.io/audits) or security consulting feel free to reach out:
+If you are looking for a comprehensive security audit reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
 
 ## Audits with Hexens
 
-A sample of my non-confidential reports from security reviews/audits can be found [here](/findings/).
+A sample of my non-confidential reports from security reviews/audits with Hexens:
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
@@ -41,14 +37,14 @@ A sample of my non-confidential reports from security reviews/audits can be foun
 
 ## Audit Contests
 
-Audit contests I participated in can be found [here](/contests/).
+Audit contests I participated in solo or with the `20centclub` team
 
 | Protocol | Platform | Date | Leaderboard |
 | - | - | - | :-: |
-| [0xhoneyjar/InterPol](https://www.0xhoneyjar.xyz/) | Cantina | December 2024 | [📄](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
-| [Kakarot ZK-EVM](https://www.kakarot.org/) | Code4rena | November 2024 | [📄](https://code4rena.com/@20centclub) |
-| [Gamma Brevis Rewarder](https://www.gamma.xyz/) | Sherlock 🥈 | November 2024 | [📄](https://audits.sherlock.xyz/contests/496?filter=results) |
-| [Karak](https://karak.network/) | Code4rena 🥉 | August 2024 | [📄](https://code4rena.com/@20centclub) |
+| [0xhoneyjar/InterPol](https://www.0xhoneyjar.xyz/) | Cantina | December 2024 | [:chart_with_upwards_trend:](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
+| [Kakarot ZK-EVM](https://www.kakarot.org/) | Code4rena | November 2024 | [:chart_with_upwards_trend:](https://code4rena.com/@20centclub) |
+| [Gamma Brevis Rewarder](https://www.gamma.xyz/) | Sherlock 🥈 | November 2024 | [:chart_with_upwards_trend:](https://audits.sherlock.xyz/contests/496?filter=results) |
+| [Karak](https://karak.network/) | Code4rena 🥉 | August 2024 | [:chart_with_upwards_trend:](https://code4rena.com/@20centclub) |
 
 ## Feedback
 
