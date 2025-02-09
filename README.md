@@ -37,7 +37,7 @@ A sample of my non-confidential reports from security reviews/audits with Hexens
 
 ## Audit Contests
 
-Audit contests I participated in solo or with the `20centclub` team
+Audit contests I participated in solo or with the `20centclub` team:
 
 | Protocol | Platform | Date | Leaderboard |
 | - | - | - | :-: |
