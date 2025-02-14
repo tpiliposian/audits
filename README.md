@@ -41,7 +41,7 @@ Audit contests I participated in solo or with the `20centclub` team:
 
 | Protocol | Platform | Date | Leaderboard |
 | - | - | - | :-: |
-| [Mento](https://www.mento.org/) | Hats Finance  | January 2025 | [:chart_with_upwards_trend:](https://app.hats.finance/audit-competitions/mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694/leaderboard) |
+| [Mento](https://www.mento.org/) | Hats Finance 🥇 | January 2025 | [:chart_with_upwards_trend:](https://app.hats.finance/audit-competitions/mento-0x2a1b9b1f6fa7c2e73815a7dff0e1688767382694/leaderboard) |
 | [0xhoneyjar/InterPol](https://www.0xhoneyjar.xyz/) | Cantina | December 2024 | [:chart_with_upwards_trend:](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
 | [Kakarot ZK-EVM](https://www.kakarot.org/) | Code4rena | November 2024 | [:chart_with_upwards_trend:](https://code4rena.com/@20centclub) |
 | [Gamma Brevis Rewarder](https://www.gamma.xyz/) | Sherlock 🥈 | November 2024 | [:chart_with_upwards_trend:](https://audits.sherlock.xyz/contests/496?filter=results) |
