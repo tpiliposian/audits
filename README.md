@@ -13,7 +13,7 @@ If you are looking for a comprehensive security audit reach out:
 
 ## Audits with Hexens
 
-A sample of non-confidential reports from security reviews/audits with Hexens can be found [here](https://hexens.io/audit-reports).
+A list of non-confidential reports I participated from security reviews/audits with Hexens can be found [here](https://github.com/Hexens/Smart-Contract-Review-Public-Reports).
 
 ## Private Audits
 
