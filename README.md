@@ -1,12 +1,10 @@
-# Tpiliposian's Portfolio
-
-## About me
+# About tpiliposian
 
 Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/).
 
-Previously, I held roles in the financial sphere for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
+Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-If you are looking for a comprehensive security audit reach out:
+For private audits or security consulting, please reach out to me:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
