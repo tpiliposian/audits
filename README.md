@@ -11,7 +11,7 @@ For private audits or security consulting, please reach out to me:
 
 ## Audits with Hexens
 
-A full list of non-confidential reports I participated from security reviews/audits with Hexens can be found [here](https://github.com/Hexens/Smart-Contract-Review-Public-Reports).
+A sample of the audits I participated in with Hexens:
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
@@ -21,6 +21,9 @@ A full list of non-confidential reports I participated from security reviews/aud
 | [Lido](https://lido.fi/) | Lido V2 upgrade, liquid staking | April 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Lido_February23_Public_upd18.04.pdf) |
 | [Mantle](https://www.mantle.xyz/) | Liquid staking, mETH | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Mantle_SCs_Aug23(Public)(Liquid%20Staking%20Protocol).pdf) |
 | [Socket](https://www.socket.tech/) | Socket's Super Token | January 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Socket_Jan24_SuperToken(Public).pdf) |
+| [Fuel](https://fuel.network/) | Fuel's Token Bridge | April 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Fuel-Bridge-apr24(Public).pdf) |
+| [Tokemak](https://www.tokemak.xyz/) | Confidential | December 2024 | Confidential |
+| [Holonym](https://app.holonym.id/) | Decentralized identity protocol based on ZK proofs | May 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/holonym-zk-audit-may-2024(Public).pdf) |
 
 ## Private Audits
 
