@@ -11,7 +11,16 @@ For private audits or security consulting, please reach out to me:
 
 ## Audits with Hexens
 
-A list of non-confidential reports I participated from security reviews/audits with Hexens can be found [here](https://github.com/Hexens/Smart-Contract-Review-Public-Reports).
+A full list of non-confidential reports I participated from security reviews/audits with Hexens can be found [here](https://github.com/Hexens/Smart-Contract-Review-Public-Reports).
+
+| Protocol | Category | Date | Report |
+| - | - | - | :-: |
+| [EigenLayer](https://www.eigenlayer.xyz/) | EigenLayer's EigenPod, restaking | October 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/EigenLayer_Oct23_(Public)(Restaking_Liquid%20staking).pdf) |
+| [1inch](https://1inch.io/) | Confidential | Feb 2025 | Confidential |
+| [Polygon](https://polygon.technology/) | AAVE's and ZKEVM DAI's bridge integrations | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Polygon_Technology__Aug23Public.pdf) |
+| [Lido](https://lido.fi/) | Lido V2 upgrade, liquid staking | April 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Lido_February23_Public_upd18.04.pdf) |
+| [Mantle](https://www.mantle.xyz/) | Liquid staking, mETH | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Mantle_SCs_Aug23(Public)(Liquid%20Staking%20Protocol).pdf) |
+| [Socket](https://www.socket.tech/) | Socket's Super Token | January 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Socket_Jan24_SuperToken(Public).pdf) |
 
 ## Private Audits
 
