@@ -1,6 +1,6 @@
 # About tpiliposian
 
-Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/).
+Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/) Bug Bounty.
 
 Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
