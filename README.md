@@ -61,9 +61,16 @@ My public contests profile can be found [here](https://audits.sherlock.xyz/watso
   <img src="/Remedy_Triage_Lead.png" width="400"/>
 </p>
 
+## Knowledge Sharing
+
+- [Not Awesome Web3 Security Roadmap](https://github.com/tpiliposian/not-awesome-web3-security-roadmap)
+- [2023-2024 Immunefi critical bug fixes](https://github.com/tpiliposian/Immunefi-bugfixes)
+- [2024 solo high severity findings from contests](https://github.com/tpiliposian/solo-highs-from-contests)
+- [Awesome Web3 Security Blogs and Podcasts](https://github.com/tpiliposian/awesome-web3sec-blogs-and-podcasts)
+
 <h2 align="left">Contacts</h2>
 <p align="left">
   <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/New-Twitter-Logo.png" alt="Twitter" height="40" width="40" /></a>
   <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/tpiliposyan/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tpiliposian/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="40" width="40" /></a>
 </p>
