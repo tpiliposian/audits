@@ -4,7 +4,7 @@ Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Tr
 
 Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-For private audits or security consulting, please reach out to me:
+For security reviews and security consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
