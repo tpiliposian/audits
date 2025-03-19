@@ -27,6 +27,7 @@ A sample of the audits I participated in with Hexens:
 | [Holonym](https://app.holonym.id/) | Decentralized identity protocol based on ZK proofs | May 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/holonym-zk-audit-may-2024(Public).pdf) |
 | [Celo](https://clabs.co/) | Celo governance contracts and various PRs | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
 | [Persistence](https://persistence.one/) | Liquid Staking | January 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Persistence-Jan24(Scope1%2B2)(Public).pdf) |
+| [Fungify](https://fungify.it/) | Lending protocol built on Compound | June 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/fungify-audit-june-2024(Public).pdf) |
 
 ## Private Audits
 
