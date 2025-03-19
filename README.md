@@ -55,6 +55,12 @@ My public contests profile can be found [here](https://audits.sherlock.xyz/watso
   <img src="./feedback/Screenshot 2024-02-17 at 13.25.55.png" width="600"/>
 </p>
 
+## Bug Bounty Triage Stats
+
+<p align="left">
+  <img src="/Remedy_Triage_Lead.png" width="400"/>
+</p>
+
 <h2 align="left">Contacts</h2>
 <p align="left">
   <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/New-Twitter-Logo.png" alt="Twitter" height="40" width="40" /></a>
