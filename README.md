@@ -16,14 +16,14 @@ A sample of the audits I participated in with Hexens:
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
 | [EigenLayer](https://www.eigenlayer.xyz/) | EigenLayer's EigenPod, restaking | October 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/EigenLayer_Oct23_(Public)(Restaking_Liquid%20staking).pdf) |
-| [1inch](https://1inch.io/) | Confidential | Feb 2025 | Confidential |
+| [1inch](https://1inch.io/) | Confidential | Feb 2025 |  |
 | [LayerZero](https://layerzero.network/) | ZRO Claim Contract | June 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/layerzero-zro-claim-contract-june-2024(Public)%20(c1101c1).pdf) |
 | [Polygon](https://polygon.technology/) | AAVE's and ZKEVM DAI's bridge integrations | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Polygon_Technology__Aug23Public.pdf) |
 | [Lido](https://lido.fi/) | Lido V2 upgrade, liquid staking | April 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Lido_February23_Public_upd18.04.pdf) |
 | [Mantle](https://www.mantle.xyz/) | Liquid staking, mETH | August 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Mantle_SCs_Aug23(Public)(Liquid%20Staking%20Protocol).pdf) |
 | [Socket](https://www.socket.tech/) | Socket's Super Token | January 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Socket_Jan24_SuperToken(Public).pdf) |
 | [Fuel](https://fuel.network/) | Fuel's Token Bridge | April 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Fuel-Bridge-apr24(Public).pdf) |
-| [Tokemak](https://www.tokemak.xyz/) | Confidential | December 2024 | Confidential |
+| [Tokemak](https://www.tokemak.xyz/) | Confidential | December 2024 |  |
 | [Holonym](https://app.holonym.id/) | Decentralized identity protocol based on ZK proofs | May 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/holonym-zk-audit-may-2024(Public).pdf) |
 | [Celo](https://clabs.co/) | Celo governance contracts and various PRs | June 2023 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/cLabs_June23(Public)%20(Governance%20Protocol)_v2.pdf) |
 | [Persistence](https://persistence.one/) | Liquid Staking | January 2024 | [📄](https://github.com/Hexens/Smart-Contract-Review-Public-Reports/blob/main/Persistence-Jan24(Scope1%2B2)(Public).pdf) |
