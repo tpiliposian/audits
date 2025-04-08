@@ -1,8 +1,8 @@
 # About tpiliposian
 
-Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/) Bug Bounty.
+Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/) Bug Bounty. Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
+As a security researcher for over two years, I have contributed over 100 security reviews for public and private clients. I worked with industry giants to enhance their security infrastructure.
 
 For security reviews and security consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
@@ -11,7 +11,7 @@ For security reviews and security consulting, please reach out:
 
 ## Audits with Hexens
 
-A sample of the audits I participated in with Hexens:
+Below is a subset of the audits I participated in with Hexens:
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
