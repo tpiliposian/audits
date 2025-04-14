@@ -1,13 +1,12 @@
-# About tpiliposian
+# Portfolio
 
-Currently, I am a Security Researcher at [Hexens](https://hexens.io/) and the Triage Lead at [Remedy](https://r.xyz/) Bug Bounty. Previously, I held roles in the TradFi for over a decade: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
+I’m a blockchain security researcher. Previously, I did security reviews with [Hexens](https://hexens.io/) and led the triage team at [Remedy](https://r.xyz/) Bug Bounty. Before that, I headed the Financial Risk Management Division at the Central Bank, and overall spent over a decade in TradFi. I did a PhD in Mathematics in 2018: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
-As a security researcher for over two years, I have contributed over 100 security reviews for public and private clients. I worked with industry giants to enhance their security infrastructure.
+With a background in math and economics, I’m a huge lover of any DeFi protocol and always curious to break code and explore new technologies. I’ve contributed to over 100 security reviews for public and private clients, and worked with industry giants to help them be more secure.
 
 For security reviews and security consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
-
 
 ## Audits with Hexens
 
