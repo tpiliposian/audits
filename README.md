@@ -4,7 +4,7 @@ I’m a security researcher at [Certora](https://www.certora.com/). Previously, 
 
 With a background in math and economics, I’m a huge lover of any DeFi protocol and always curious to break code and explore new technologies. I’ve contributed to over 100 security reviews for public and private clients, and worked with industry giants to help them be more secure.
 
-For security reviews and consulting, please reach out:
+For private audits or security consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
