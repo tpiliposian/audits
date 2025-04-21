@@ -1,10 +1,10 @@
 # Portfolio
 
-I’m a blockchain security researcher. Previously, I did security reviews with [Hexens](https://hexens.io/) and led the triage team at [Remedy](https://r.xyz/) Bug Bounty. Before that, I headed the Financial Risk Management Division at the Central Bank, and overall spent over a decade in TradFi. I did a PhD in Mathematics in 2018: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
+I’m a security researcher at [Certora](https://www.certora.com/). Previously, I did security reviews with [Hexens](https://hexens.io/) and led the triage team at [Remedy](https://r.xyz/) Bug Bounty. Before that, I headed the Financial Risk Management Division at the Central Bank, and overall spent over a decade in TradFi. I did a PhD in Mathematics in 2018: [LinkedIn](https://www.linkedin.com/in/tpiliposyan/).
 
 With a background in math and economics, I’m a huge lover of any DeFi protocol and always curious to break code and explore new technologies. I’ve contributed to over 100 security reviews for public and private clients, and worked with industry giants to help them be more secure.
 
-For security reviews and security consulting, please reach out:
+For security reviews and consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
