@@ -8,6 +8,12 @@ For private audits or security consulting, please reach out:
 - X/Twitter - [tpiliposian](https://twitter.com/tpiliposian) 
 - Telegram - [tpiliposian](https://t.me/tpiliposian)
 
+## Audits in Certora
+
+| Protocol | Category | Date | Report |
+| - | - | - | :-: |
+|  |  | April 2025 | [📄]() |
+
 ## Audits with Hexens
 
 Below is a subset of the audits I participated in with Hexens:
