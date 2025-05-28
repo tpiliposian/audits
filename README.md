@@ -13,7 +13,7 @@ For private audits or security consulting, please reach out:
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
 |  | EIP-7702, EIP-7821 implementation | April 2025 | [📄]() |
-|  | Gaming, Sui Move | May 2025 | [📄]() |
+|  | Gaming, Move on Sui | May 2025 | [📄]() |
 
 ## Audits with Hexens
 
