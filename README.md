@@ -10,10 +10,10 @@ For private audits or security consulting, please reach out:
 
 ## Audits in Certora
 
-| Protocol | Category | Date | Report |
-| - | - | - | :-: |
-|  | EIP-7702, EIP-7821 implementation | April 2025 | [📄]() |
-|  | Gaming, Sui Move | May 2025 | [📄]() |
+| Protocol | Category | Platform | Date | Report |
+| - | - | - | - | :-: |
+|  | EIP-7702, EIP-7821 implementation | EVM, Solidity | April 2025 | [📄]() |
+|  | Gaming | Sui, Move | May 2025 | [📄]() |
 
 ## Audits with Hexens
 
@@ -58,7 +58,11 @@ My public contests profile can be found [here](https://audits.sherlock.xyz/watso
 ## Feedback
 
 <p align="left">
-  <img src="./feedback/Screenshot 2024-02-17 at 13.25.55.png" width="600"/>
+  <img src="./feedback/Screenshot 2024-02-17 at 13.25.55.png" width="500"/>
+</p>
+
+<p align="left">
+  <img src="./feedback/IMG_1138.jpeg" width="300"/>
 </p>
 
 ## Bug Bounty Triage Stats
