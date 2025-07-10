@@ -12,6 +12,7 @@ For private audits or security consulting, please reach out:
 
 | Protocol | Category | Platform | Date | Report |
 | - | - | - | - | :-: |
+|  | Yield-bearing token | Solidity | July 2025 | [📄]() |
 |  | DeFi, Stable Swap | Solidity | June 2025 | [📄]() |
 |  | Gaming | Sui, Move | May 2025 | [📄]() |
 |  | EIP-7702, EIP-7821 implementation | EVM, Solidity | April 2025 | [📄]() |
