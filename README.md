@@ -14,7 +14,7 @@ For private audits or security consulting, please reach out:
 | - | - | - | - | :-: |
 |  | Yield-bearing token | Solidity | July 2025 | [📄]() |
 |  | DeFi, Stable Swap | Solidity | June 2025 | [📄]() |
-| [Moviepass](https://mogul.moviepass.com/) | Gaming | Sui, Move | May 2025 | [📄]() |
+| [Moviepass](https://mogul.moviepass.com/) | GameFi | Sui, Move | May 2025 | [📄]() |
 |  | EIP-7702, EIP-7821 implementation | Solidity | April 2025 | [📄]() |
 
 ## Audits with Hexens
