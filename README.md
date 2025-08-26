@@ -41,7 +41,8 @@ Below is a subset of the audits I participated in with Hexens:
 
 | Protocol | Category | Date | Report |
 | - | - | - | :-: |
-| [Goat Finance](https://www.goat.fi/#/) | DeFi Yield Optimizer | February 2024 | [📄](private/goatfi.md) | 
+| [Wowmax](https://wowmax.exchange/) | DeFi, Copy Trading | August 2025 | [📄](private/Hakira_Wowmax_Report_Final.pdf) |
+| [Goat Finance](https://www.goat.fi/#/) | DeFi, Yield Optimizer | February 2024 | [📄](private/goatfi.md) | 
 
 ## Audit Contests
 
