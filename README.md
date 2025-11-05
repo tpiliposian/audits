@@ -72,6 +72,10 @@ My public contests profile can be found [here](https://audits.sherlock.xyz/watso
   <img src="./feedback/Screenshot 2025-08-15 at 22.12.29.png" width="300"/>
 </p>
 
+<p align="left">
+  <img src="./feedback/Screenshot 2025-11-05 at 14.26.15.png" width="300"/>
+</p>
+
 ## Bug Bounty Triage Stats
 
 <p align="left">
