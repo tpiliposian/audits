@@ -13,9 +13,9 @@ For private audits or security consulting, please reach out:
 | Protocol | Category | Platform | Date | Report |
 | - | - | - | - | :-: |
 | [M0 - M Extension](https://www.m0.org/) | Yield-bearing token | Solidity | July 2025 | [📄](https://github.com/m0-foundation/evm-m-extensions/blob/main/audits/Certora%20MExtension%20Security%20Assessment%20Final%20Report.pdf) |
-|  | DeFi, Stable Swap | Solidity | June 2025 | [📄]() |
-| [Moviepass](https://mogul.moviepass.com/) | GameFi | Sui, Move | May 2025 | [📄]() |
-|  | EIP-7702, EIP-7821 implementation | Solidity | April 2025 | [📄]() |
+|  | DeFi, Stable Swap | Solidity | June 2025 | Confidential |
+| [Moviepass](https://mogul.moviepass.com/) | GameFi | Sui, Move | May 2025 | Confidential |
+|  | EIP-7702, EIP-7821 implementation | Solidity | April 2025 | Confidential |
 
 ## Audits with Hexens
 
